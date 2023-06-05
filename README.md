@@ -10,7 +10,7 @@ To access the web page, naviagte to the index.html file and open it in your pref
 Enter an event that you want to log to the daily scheduler and then click on the blue save button on the right. To delete a task, delete the text and click the save button again. Once saved, the data will persist even if the page is refreshed or closed.
 
 ## GitHub Pages URL
--
+https://peteroste.github.io/Work-Day-Scheduler/
 
 ## Screenshot
 ![image](https://github.com/PeterOste/Work-Day-Scheduler/assets/131497563/048e3feb-dc92-4981-8038-1b26252b23f5)
