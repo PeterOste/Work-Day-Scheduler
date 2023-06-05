@@ -13,7 +13,7 @@ Enter an event that you want to log to the daily scheduler and then click on the
 -
 
 ## Screenshot
--
+![image](https://github.com/PeterOste/Work-Day-Scheduler/assets/131497563/048e3feb-dc92-4981-8038-1b26252b23f5)
 
 ## Acknowledgements
 Starter code provided by the University of Minnesota Coding Bootcamp. The index.html and script.cs were finished by myself, Peter Ostertag.
